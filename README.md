@@ -13,12 +13,8 @@ implementation "org.jetbrains.anko:anko-coroutines:$kotlin_anko_version"
 implementation "com.android.support:recyclerview-v7:$support_lib_version"
 ```
 where
-`$kotlin_version` is [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlin/kotlin-maven-plugin.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.jetbrains.kotlin%22)
-
-`$kotlin_anko_version` is [![Download](https://api.bintray.com/packages/jetbrains/anko/anko/images/download.svg) ](https://bintray.com/jetbrains/anko/anko/_latestVersion)
-
-`$support_lib_version` is, as its name suggests, your project's google android support library version
-
+`$kotlin_version` is [![Maven Central](https://img.shields.io/maven-central/v/org.jetbrains.kotlin/kotlin-maven-plugin.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.jetbrains.kotlin%22) 
+and `$kotlin_anko_version` is [![Download](https://api.bintray.com/packages/jetbrains/anko/anko/images/download.svg) ](https://bintray.com/jetbrains/anko/anko/_latestVersion)
 
 2. Create file `Air.kt` and its copy file contents from [Air.kt file available here](https://github.com/mumayank/Air/blob/master/Air.kt)
 
