@@ -1,4 +1,4 @@
-![alt text](https://github.com/mumayank/Air/blob/master/exporting%20air.png "Air")
+![alt text](https://github.com/mumayank/Air/blob/master/logo.png "Air")
 
 # Setup
 1. In your app-level `gradle.build` file, copy these lines under dependencies section:
